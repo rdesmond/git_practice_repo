@@ -1,6 +1,6 @@
 # References
 
-You can go through these sites below, for further learning and if you face a problem, 
+You can go through these sites below, for further learning and if you face a problem in future, 
 
 - [Git](https://git-scm.com/)
 
