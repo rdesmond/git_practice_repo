@@ -1,5 +1,3 @@
 Hello pizza
 
 Hello Burger
-
-hello again ice-cream
