@@ -1,5 +1,5 @@
-# To test Branching
+# Testing merge Conflicts
 
-# Practice
+# Testing Conflicts
 
-## added  a new Branch
+## How conflicts occur
